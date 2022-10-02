@@ -84,7 +84,7 @@ rem ----------- create shortcut in this directory ------------
     Echo oShellLink.WindowStyle = 1
     Echo oShellLink.Hotkey = "CTRL+SHIFT+R"
     Echo oShellLink.IconLocation = "C:\Users\%USERNAME%\AppData\Local\RuneLite\RuneLite.exe, 0"
-    Echo oShellLink.Description = "Runelite"
+    Echo oShellLink.Description = "RuneLite"
     Echo oShellLink.WorkingDirectory = "%disir%"
     Echo oShellLink.Save) 1>"%disir%\CreateShortcut.vbs"
 rem      @%SystemRoot%\System32\cscript.exe //NoLogo "%disir%\CreateShortcut.vbs" && Del "%disir%\CreateShortcut.vbs"
@@ -96,7 +96,7 @@ rem ----------- create shortcut desktop------------
     Echo oShellLink.WindowStyle = 1
     Echo oShellLink.Hotkey = "CTRL+SHIFT+R"
     Echo oShellLink.IconLocation = "C:\Users\%USERNAME%\AppData\Local\RuneLite\RuneLite.exe, 0"
-    Echo oShellLink.Description = "Runelite"
+    Echo oShellLink.Description = "RuneLite"
     Echo oShellLink.WorkingDirectory = "%disir%"
     Echo oShellLink.Save) 1>"%disir%\CreateShortcut.vbs"
 rem      @%SystemRoot%\System32\cscript.exe //NoLogo "%disir%\CreateShortcut.vbs" && Del "%disir%\CreateShortcut.vbs"
