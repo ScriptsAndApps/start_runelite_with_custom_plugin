@@ -5,7 +5,7 @@ you just have to run the file EDIT_ME_AND_RUN_ME_TO_SETUP.bat in the root of you
 
 WARNING this will replace your desktop and startfolder shortcuts
 
-to make the shortcuts as normal run DISABLE_SHORTCUTS_AND_DELETE_JAR.bat OR reinstall runelite if you lose this file
+To make everything as normal again run DISABLE_SHORTCUTS_AND_DELETE_JAR.bat OR reinstall runelite if you lose this file
 
 in this video i explain how to setup your computer to compile plugins or compile runelite client
 
