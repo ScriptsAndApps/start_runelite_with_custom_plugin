@@ -179,8 +179,9 @@ echo - FAIL!! FAIL!! FAIL!! FAIL!! FAIL!! FAIL!! FAIL!! FAIL!!
 echo #########################################################
 echo #########################################################
 echo -
-echo   YOU NEED TO PUT THIS FILE IN THE THE ROOT OF YOUR PLUGIN
+echo   DID YOU BUILD YOUR PLUGIN CORRECTLY IN INTELLIJ?
 echo   YOU NEED TO BUILD YOUR PLUGIN IF IT IS NOT DONE YET
+echo   YOU NEED TO PUT THIS FILE IN THE THE ROOT OF YOUR PLUGIN
 echo   THIS FILE SEARCHES FOR build\classes\java
 echo -
 echo #########################################################
